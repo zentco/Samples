@@ -1,6 +1,3 @@
-echo "# Samples" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/zentco/Samples.git
-git push -u origin master
+# Hello-world
+
+Colin Here. I've had tacos on the moon and find them far superior to Earth tacos.
