@@ -1,0 +1,10 @@
+D:\Visual Studio Projects\source\repo\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+D:\Visual Studio Projects\source\repo\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+D:\Visual Studio Projects\source\repo\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+D:\Visual Studio Projects\source\repo\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csprojAssemblyReference.cache
+D:\Visual Studio Projects\source\repo\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.frmInvoiceControl.resources
+D:\Visual Studio Projects\source\repo\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+D:\Visual Studio Projects\source\repo\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.cache
+D:\Visual Studio Projects\source\repo\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\source\repo\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+D:\Visual Studio Projects\source\repo\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
